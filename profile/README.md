@@ -1,6 +1,6 @@
 <img width="1760" height="576" alt="image (1)" src="https://github.com/user-attachments/assets/0ea80ed4-5dc3-4e81-8ab6-3461e851691b" />
 
-
+---
 
 After analyzing 1,000 profitable bots on **Polymarket Up/Down markets**, the edge isn't in guessing direction — it's in trading the microstructure: **repricing delays**, **order book imbalance**, **arb between Up and Down**, **timeframe lag**, and the **final seconds before resolution**.
 
@@ -13,6 +13,6 @@ If you're looking for a battle-tested, profitable version — our team at **Gamm
 
 
 
-✉️ **gammatradeorg@gmail.com **
+✉️ **gammatradeorg@gmail.com**
 
 📞 **https://t.me/RetroValix**
